@@ -3,5 +3,11 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
+/* Core Components */
 @import "compass/reset";
-@import "typography/headers"
+@import "standards/normalize";
+@import "standards/colors";
+@import "standards/words";
+
+/* Words */
+@import "typography/headers";
